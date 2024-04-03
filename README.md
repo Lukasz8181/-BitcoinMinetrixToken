@@ -1,0 +1,2 @@
+# -BitcoinMinetrixToken
+Kontrakt Solidny
